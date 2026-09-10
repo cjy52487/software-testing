@@ -1,4 +1,4 @@
-本项目是针对https://github.com/hui0509/food_delivery_app的测试。
+本项目是针对 https://github.com/hui0509/food_delivery_app 的测试。
 
 项目部署问题：前端登录/注册时始终报错：`timeout of 10000ms exceeded`（请求超时），错误代码 `ECONNABORTED`。
 
